@@ -1,0 +1,32 @@
+/*
+CSC 134
+M2Lab - the crate program
+Mykayla lewis
+1/28/26
+
+find volume of crate
+find cost, customer_price, and profit
+print everything out
+*/
+
+#include <iostream>
+#include <iomanip
+
+int main() {
+    // part 1 -- declare variables
+    // constant variabkes (don't cange unless the market changes)
+    const double COST_PER_CUBIC_FOOT = 0.23;
+    const double CHARGE_PER_CUBIC_FOOT = 0.5;
+    // crate variables
+    double length, width, height, volume;
+    // money variables
+    double cost, customer_price, profit;
+
+    // part 2 -- get the input
+
+    // part 3 -- do the calculations
+
+    // part 4 -- print hte output
+    return 0;
+
+}
